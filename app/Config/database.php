@@ -71,10 +71,10 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
+		'password' => 'pass',
+		'database' => 'web',
 		'prefix' => '',
-		//'encoding' => 'utf8',
+		'encoding' => 'utf8',
 	);
 
 	public $test = array(
